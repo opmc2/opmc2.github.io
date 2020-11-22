@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Teaching"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Head TA: Intermediate Micro"
+  company = "Sciences Po, Paris"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2020-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = "Head teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Prof. Perez](http://eduardo.perez.free.fr/). Updated the problem sets and solutions and helped write exams."
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "TA: Intermediate Micro"
+  company = "Sciences Po, Paris"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2017-09-01"
+  date_end = ""
+  description = "Teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Prof. Perez](http://eduardo.perez.free.fr/). Led weekly problem classes and marked the homeworks and exams."
+  
 
+[[experience]]
+  title = "Lecturer: Introduction to Econometrics"
+  company = "Sciences Po, Paris"
+  company_url = ""
+  location = ""
+  date_start = "2018-09-01"
+  date_end = "2019-09-01"
+  description = "Lectured to a small class of UGs following an interactive syllabus designed by [Prof. Oswald](https://floswald.github.io/teaching/scpoeconometrics/)."
+
+[[experience]]
+  title = "TA: Graduate Micro 3"
+  company = "Sciences Po, Paris"
+  date_start = "2017-09-01"
+  date_end = "2019-09-01"
+  description = "Teaching assistant for the second-year graduate microeconomics course, Graduate Micro 3, taught by [Prof. Perez](http://eduardo.perez.free.fr/). Led weekly problem classes and marked the homeworks and exams."
 +++
