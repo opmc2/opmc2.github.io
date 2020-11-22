@@ -62,8 +62,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-[]
+# user_groups:
+# []
 ---
 
 I am a PhD candidate in economics at Sciences Po, supervised by [Ghazala Azmat](https://sites.google.com/site/ghazalaazmat/home) and [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home). I am interested in labour economics, and in particular why people choose different levels of education and investigating how these choices affect their lives.

@@ -12,7 +12,7 @@ Estimating our model using the EM-algorithm, we find small ATEs and ATTs on hour
 However, we find larger effects on hours and annual wages with both ATEs and ATTs of over 5%.
 A simple extension to our model to include *observed* as well as unobserved heterogeneity produces very similar results..
 "
-authors: [admin, "[Robert Gary-Bobo](https://sites.google.com/site/robertgarybobopersonalpage/home)", "[Julie Pernaudet](https://sites.google.com/view/juliepernaudet/home?authuser=0)", "[Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home)"]
+authors: [admin, "Robert Gary-Bobo", "Julie Pernaudet", "Jean-Marc Robin"]
 tags: [training]
 categories: []
 date: 2020-05-02T17:31:46+02:00
