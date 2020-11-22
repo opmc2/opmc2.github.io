@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>education | Academic</title>
+    <title>education | opmc</title>
     <link>https://opmc2.github.io/tag/education/</link>
       <atom:link href="https://opmc2.github.io/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>education</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 17:31:46 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Nov 2020 17:31:46 +0200</lastBuildDate>
     <image>
       <url>https://opmc2.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>education</title>
@@ -15,7 +15,7 @@
     <item>
       <title>The role of earnings expectations versus non-pecuniary factors in university attendance</title>
       <link>https://opmc2.github.io/publication/ukheexp/</link>
-      <pubDate>Sat, 02 May 2020 17:31:46 +0200</pubDate>
+      <pubDate>Thu, 19 Nov 2020 17:31:46 +0200</pubDate>
       <guid>https://opmc2.github.io/publication/ukheexp/</guid>
       <description>&lt;p&gt;Why do some people choose to attend university, and enjoy state-subsidised benefits, while others do not?
 I shed new light on this key issue by comparing and quantifying the roles of earnings expectations and non-pecuniary factors in educational decisions and career choices.
