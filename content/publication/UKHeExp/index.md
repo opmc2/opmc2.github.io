@@ -40,7 +40,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "jmp_OC.pdf"
+url_pdf: "ukHeExp.pdf"
 url_slides: "slides.pdf"
 url_video: ""
 

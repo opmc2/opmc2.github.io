@@ -38,7 +38,7 @@ image:
 
 url_code: ""
 url_pdf: "defis6.pdf"
-url_slides: "slides_jmr.pdf"
+url_slides: "slides.pdf"
 url_video: ""
 
 # Slides (optional).
