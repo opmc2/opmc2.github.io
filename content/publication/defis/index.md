@@ -15,7 +15,7 @@ A simple extension to our model to include *observed* as well as unobserved hete
 authors: [admin, "Robert Gary-Bobo", "Julie Pernaudet", "Jean-Marc Robin"]
 tags: [training]
 categories: []
-date: 2020-05-02T17:31:46+02:00
+date: 2020-11-02T17:31:46+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
