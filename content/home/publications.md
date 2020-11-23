@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = "Working papers"
 subtitle = ""
@@ -24,12 +24,12 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+  #[content.filters]
+  #  tag = ""
+  #  category = ""
+  #  publication_type = ""
+  #  author = ""
+  #  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -67,6 +67,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
