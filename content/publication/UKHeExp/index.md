@@ -18,7 +18,7 @@ Estimation of this updated model is currently ongoing.
 authors: [admin]
 tags: [education]
 categories: []
-date: 2020-05-02T17:31:46+02:00
+date: 2020-11-19T17:31:46+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
