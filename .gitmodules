@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/opmc2/opmc2.github.io.git
+	branch = master
