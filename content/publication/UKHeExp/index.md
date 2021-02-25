@@ -3,17 +3,13 @@
 
 title: "The role of earnings expectations versus non-pecuniary factors in university attendance"
 summary: "
-Why do some people choose to attend university, and enjoy state-subsidised benefits, while others do not?
-I shed new light on this key issue by comparing and quantifying the roles of earnings expectations and non-pecuniary factors in educational decisions and career choices.
-I also investigate changes over time, and the implications for social mobility.
-To do this, I specify a Roy-like model of educational choice, in which I explicitly include earnings expectations and other, non-pecuniary, factors.
-I estimate my model on detailed longitudinal data from two UK cohorts, using information on students' choices and their later wages. 
-In particular, I exploit data on students' expectations about key non-pecuniary outcomes both at, and after, university.
-I find that income maximisation, despite its prevalent role in the literature, is only a small part of the story: non-pecuniary factors are four times as important as earnings expectations in determining whether someone goes to university. 
-Non-pecuniary factors also drive the SES-gap in educational attainment, and are responsible for the huge growth in degree attainment between the 1970 and 1990 cohorts.
-I then specify an improved model of earnings expectations, allowing for unobserved heterogeneity in students' earnings expectations. 
-I use a novel technique to estimate the model via the EM-algorithm, which I developed with coauthors in another project.
-Estimation of this updated model is currently ongoing.
+WWhy do some people choose to attend university, and enjoy state-subsidised benefits, while others do not?
+We shed new light on this key issue by comparing and quantifying the roles of earnings, financial, and non-pecuniary factors in the educational decisions of young people in the UK.
+We investigate changes in these factors over time, and their implications for social mobility.
+We specify a model of educational choice, explicitly including expectations about earnings, financial, and non-pecuniary factors.
+Our estimation strategy exploits panel survey data on young people's expectations about key outcomes both at, and after, university, linked to their realised outcomes.
+Income maximisation, despite its prevalent role in the literature, is only a small part of the story: other factors are four times as important as earnings in determining whether someone goes to university. 
+Non-pecuniary factors also drive both the SES-gap in educational attainment, and the huge growth in degree attainment between the 1980s and 2010s.
 "
 authors: [admin]
 tags: [education]
@@ -53,13 +49,9 @@ slides: ""
 ---
 
 Why do some people choose to attend university, and enjoy state-subsidised benefits, while others do not?
-I shed new light on this key issue by comparing and quantifying the roles of earnings expectations and non-pecuniary factors in educational decisions and career choices.
-I also investigate changes over time, and the implications for social mobility.
-To do this, I specify a Roy-like model of educational choice, in which I explicitly include earnings expectations and other, non-pecuniary, factors.
-I estimate my model on detailed longitudinal data from two UK cohorts, using information on students' choices and their later wages. 
-In particular, I exploit data on students' expectations about key non-pecuniary outcomes both at, and after, university.
-I find that income maximisation, despite its prevalent role in the literature, is only a small part of the story: non-pecuniary factors are four times as important as earnings expectations in determining whether someone goes to university. 
-Non-pecuniary factors also drive the SES-gap in educational attainment, and are responsible for the huge growth in degree attainment between the 1970 and 1990 cohorts.
-I then specify an improved model of earnings expectations, allowing for unobserved heterogeneity in students' earnings expectations. 
-I use a novel technique to estimate the model via the EM-algorithm, which I developed with coauthors in another project.
-Estimation of this updated model is currently ongoing.
+We shed new light on this key issue by comparing and quantifying the roles of earnings, financial, and non-pecuniary factors in the educational decisions of young people in the UK.
+We investigate changes in these factors over time, and their implications for social mobility.
+We specify a model of educational choice, explicitly including expectations about earnings, financial, and non-pecuniary factors.
+Our estimation strategy exploits panel survey data on young people's expectations about key outcomes both at, and after, university, linked to their realised outcomes.
+Income maximisation, despite its prevalent role in the literature, is only a small part of the story: other factors are four times as important as earnings in determining whether someone goes to university. 
+Non-pecuniary factors also drive both the SES-gap in educational attainment, and the huge growth in degree attainment between the 1980s and 2010s.
