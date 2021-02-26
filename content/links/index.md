@@ -46,13 +46,15 @@ header:
 - [*How to give an applied micro talk*, Jesse Shapiro](https://www.brown.edu/Research/Shapiro/pdfs/applied_micro_slides.pdf)
 - [*What Makes for a Successful Paper and Seminar?*, Don Davis](http://www.columbia.edu/~drd28/SuccessfulPaperSeminar.pdf)
 - [*Tips on Giving a Presentation in Economics*, Darren Lubotsky](https://lubotsky.people.uic.edu/uploads/2/3/1/7/23178366/tips_on_giving_a_research_presentation_october_2017.pdf)
+- [*Tips + tricks with beamer for economists*, Paul Goldsmith-Pinkham](https://github.com/paulgp/beamer-tips/blob/master/slides.pdf)
 
 ## General / non-econ
 
 
 # Miscellaneous
 
-- [*Grasping Relaity*, Brad DeLong](https://delong.typepad.com/)
+- [*Grasping Reality*, Brad DeLong](https://delong.typepad.com/)
 - [*The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life*, Radhika Nagpal](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 - [*ECONJEFF*, ](https://econjeff.blogspot.com/2013/07/advice-for-tenure-track.html)
 - [*Tips4Economists*, Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists)
+- [Keith Head's blog](http://blogs.ubc.ca/khead/blog) contains useful information on `R` aimed at `STATA` users.
