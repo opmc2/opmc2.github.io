@@ -3,7 +3,7 @@
 
 title: "The role of earnings expectations versus non-pecuniary factors in university attendance"
 summary: "
-WWhy do some people choose to attend university, and enjoy state-subsidised benefits, while others do not?
+Why do some people choose to attend university, and enjoy state-subsidised benefits, while others do not?
 We shed new light on this key issue by comparing and quantifying the roles of earnings, financial, and non-pecuniary factors in the educational decisions of young people in the UK.
 We investigate changes in these factors over time, and their implications for social mobility.
 We specify a model of educational choice, explicitly including expectations about earnings, financial, and non-pecuniary factors.
