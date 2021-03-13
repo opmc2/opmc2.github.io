@@ -67,3 +67,5 @@ highlight_name: false
 ---
 
 I am a PhD candidate in economics at Sciences Po, supervised by [Ghazala Azmat](https://sites.google.com/site/ghazalaazmat/home) and [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home). I am interested in labour economics, and in particular why people choose different levels of education and investigating how these choices affect their lives.
+
+Scroll down to see more about my research or explore the links at the top of the page.
