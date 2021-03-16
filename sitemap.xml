@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://opmc2.github.io/links/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://opmc2.github.io/categories/</loc>
   </url>
   
@@ -91,6 +86,14 @@
   
   <url>
     <loc>https://opmc2.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opmc2.github.io/research-statement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://opmc2.github.io/links/</loc>
   </url>
   
 </urlset>
