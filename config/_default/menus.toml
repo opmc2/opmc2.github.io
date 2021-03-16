@@ -27,6 +27,12 @@
   parent = "research"
 
 [[main]]
+  name = "Research statement"
+  url = "media/research_statement.pdf"
+  weight = 40
+  parent = "research"
+
+[[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 40
