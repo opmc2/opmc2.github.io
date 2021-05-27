@@ -37,7 +37,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "defis6.pdf"
+url_pdf: ""
 url_slides: "slides.pdf"
 url_video: ""
 
