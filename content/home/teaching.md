@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Macroeconomics for Public Policy"
+  company = "Sciences Po, Paris"
+  company_url = ""
+  location = ""
+  date_start = "2021-01-01"
+  date_end = ""
+  description = "Regular seminars / problem classes to support the lectures taught by [Thomas Chaney](https://sites.google.com/site/thomaschaney/teaching/macro?authuser=0) (2021) and [Basile Grassi](https://sites.google.com/site/grassibasile/home/teaching) (2022)."
+
+[[experience]]
   title = "Head TA: Intermediate Micro"
   company = "Sciences Po, Paris"
   company_url = ""
   location = ""
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2020-12-20"
   description = "Head teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Eduardo Perez](http://eduardo.perez.free.fr/). Updated the problem sets and solutions and helped to finalise examinations."
 
 [[experience]]
@@ -32,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2020-12-20"
   description = "Teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Eduardo Perez](http://eduardo.perez.free.fr/). Led weekly problem classes and marked the homeworks and exams."
   
 

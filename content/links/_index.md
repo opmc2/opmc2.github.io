@@ -66,3 +66,4 @@ header:
 - [*ECONJEFF*](https://econjeff.blogspot.com/2013/07/advice-for-tenure-track.html)
 - [*Tips4Economists*, Masayuki Kudamatsu](https://sites.google.com/site/mkudamatsu/tips4economists)
 - [Keith Head's blog](http://blogs.ubc.ca/khead/blog) contains useful information on [`R`](https://www.r-project.org/) aimed at `STATA` users.
+- [*In praise of idleness*, Bertrand Russell](https://harpers.org/archive/1932/10/in-praise-of-idleness/) 
