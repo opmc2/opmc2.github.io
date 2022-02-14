@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in economics
     institution: Sciences Po, Paris
-    year: expected 2021
+    year: expected 2022
   - course: Master in economics
     institution: Sciences Po, Paris
     year: 2017

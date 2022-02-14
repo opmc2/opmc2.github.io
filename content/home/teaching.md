@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-09-01"
   date_end = "2020-12-20"
-  description = "Head teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Eduardo Perez](http://eduardo.perez.free.fr/). Updated the problem sets and solutions and helped to finalise examinations."
+  description = "Head teaching assistant for Intermediate Microeconomics (a second year UG course) taught by [Eduardo Perez](http://eduardo.perez.free.fr/) (Paris) and [Jean-Marc Robin]() (Reims). Updated the problem sets and solutions and helped to finalise examinations."
 
 [[experience]]
   title = "TA: Intermediate Micro"
