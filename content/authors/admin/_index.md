@@ -6,12 +6,12 @@ title: Oliver Cassagneau-Francis
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Sciences Po
-  url: "https://www.sciencespo.fr/department-economics/en.html"
+- name: CEPEO at IoE UCL
+  url: "https://www.ucl.ac.uk/ioe/departments-and-centres/centres/centre-education-policy-and-equalising-opportunities"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in labour, education and applied microeconometrics.
@@ -19,14 +19,13 @@ bio: I am interested in labour, education and applied microeconometrics.
 interests:
 - Labour 
 - Education
-- Skills and human capital
 - Applied microeconometrics
 
 education:
   courses:
   - course: PhD in economics
     institution: Sciences Po, Paris
-    year: expected 2022
+    year: 2022
   - course: Master in economics
     institution: Sciences Po, Paris
     year: 2017
@@ -66,6 +65,8 @@ highlight_name: false
 # []
 ---
 
-I am a PhD candidate in economics at Sciences Po, supervised by [Ghazala Azmat](https://sites.google.com/site/ghazalaazmat/home) and [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home). I am interested in labour economics, and in particular why people choose different levels of education and investigating how these choices affect their lives.
+I am a Research Fellow at the [Centre for Education Policy and Equalising Opportunities (CEPEO)](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/centre-education-policy-and-equalising-opportunities) at [UCL IoE](https://www.ucl.ac.uk/ioe/ioe-ucls-faculty-education-and-society). I am interested in labour economics, and in particular why people choose different levels of education and investigating how these choices affect their lives.
+
+I received my PhD in economics from [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), supervised by [Ghazala Azmat](https://sites.google.com/site/ghazalaazmat/home) and [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home).
 
 Scroll down to see more about my research or explore the links at the top of the page.
