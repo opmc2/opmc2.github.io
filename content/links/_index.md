@@ -61,6 +61,7 @@ header:
 
 ## Miscellaneous
 
+- [*Tips for PhD students*, Claes Backman](https://sites.google.com/view/claesbackman/tips-for-phd-students)
 - [*Grasping Reality*, Brad DeLong](https://delong.typepad.com/)
 - [*The Awesomest 7-Year Postdoc ... Stop Worrying and Love the Tenure-Track Faculty Life*](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/),  Radhika Nagpal
 - [*ECONJEFF*](https://econjeff.blogspot.com/2013/07/advice-for-tenure-track.html)
