@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:oliver.cassagneaufrancis@sciencespo.fr
+  link: mailto:o.cassagneau-francis@ucl.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/opmc1
