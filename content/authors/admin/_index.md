@@ -65,7 +65,7 @@ highlight_name: false
 # []
 ---
 
-I am a Research Fellow at the [Centre for Education Policy and Equalising Opportunities (CEPEO)](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/centre-education-policy-and-equalising-opportunities) at [UCL IoE](https://www.ucl.ac.uk/ioe/ioe-ucls-faculty-education-and-society). I am interested in labour economics, and in particular why people choose different levels of education and investigating how these choices affect their lives.
+I am a Research Fellow at the [Centre for Education Policy and Equalising Opportunities (CEPEO)](https://www.ucl.ac.uk/ioe/departments-and-centres/centres/centre-education-policy-and-equalising-opportunities) at [UCL's IOE](https://www.ucl.ac.uk/ioe/ioe-ucls-faculty-education-and-society). I am interested in labour economics, and in particular why people choose different levels of education and how these choices affect their lives.
 
 I received my PhD in economics from [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), supervised by [Ghazala Azmat](https://sites.google.com/site/ghazalaazmat/home) and [Jean-Marc Robin](https://sites.google.com/site/jmarcrobin/home).
 
