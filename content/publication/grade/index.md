@@ -1,17 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Exploring SES, gender and ethnicity gaps in teacher judgements and the implications for university participation"
+title: "Systematic gaps in teacher judgement: A new approach"
 summary: "
-We determine whether teachers have systematically under- or over-predicted some groups of secondary school students following the cancellation of exams in 2020, and the consequences for their university destinations. 
-We are also interested in what we can learn from this more generally: teachers are widely recognised as the most important determinant of student outcomes within the educational setting. 
-Thus if teachers did award some types of students more generous predictions, this information could help us to understand the consequences of existing and potential policies which involve teachers’ subjective evaluations of students (e.g. university applications). 
+Do teachers mark some pupils more generously than others? We propose a new approach to this longstanding question, by exploiting a unique situation where teachers were required to assign grades and the rankings of students within grades for a high-stakes assessment. We use this to test for imbalance of student characteristics across grade boundaries by comparing the top ranked students of one grade, to the lowest ranking students of the next grade. Due to the discrete nature of ranks, we implement an extension to the RDD framework called local randomisation. This does not require the standard assumptions used in teacher bias literature. We find evidence of teacher generosity on average favouring higher income, female, white students. However, there is large variation in gender bias across subjects. Teachers tend to favour a gender more the less that gender is represented in a subject. 
 
 "
-authors: [admin, "Lindsey Macmillan", "Gill Wyness"]
+authors: [admin, "Lindsey Macmillan", "Richard Murphy", "Gill Wyness"]
 tags: [higher education, mismatch, teacher judgements]
 categories: []
-date: 2020-11-02T17:31:46+02:00
+date: 2024-10-02T11:31:46+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,6 +43,4 @@ url_video: ""
 slides: ""
 ---
 
-We determine whether teachers have systematically under- or over-predicted some groups of secondary school students following the cancellation of exams in 2020, and the consequences for their university destinations. 
-We are also interested in what we can learn from this more generally: teachers are widely recognised as the most important determinant of student outcomes within the educational setting. 
-Thus if teachers did award some types of students more generous predictions, this information could help us to understand the consequences of existing and potential policies which involve teachers’ subjective evaluations of students (e.g. university applications). 
+Do teachers mark some pupils more generously than others? We propose a new approach to this longstanding question, by exploiting a unique situation where teachers were required to assign grades and the rankings of students within grades for a high-stakes assessment. We use this to test for imbalance of student characteristics across grade boundaries by comparing the top ranked students of one grade, to the lowest ranking students of the next grade. Due to the discrete nature of ranks, we implement an extension to the RDD framework called local randomisation. This does not require the standard assumptions used in teacher bias literature. We find evidence of teacher generosity on average favouring higher income, female, white students. However, there is large variation in gender bias across subjects. Teachers tend to favour a gender more the less that gender is represented in a subject.
