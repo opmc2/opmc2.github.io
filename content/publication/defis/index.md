@@ -37,7 +37,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "defis_11f.pdf"
+url_pdf: "publication/defis/defis_11f.pdf"
 url_slides: "slides.pdf"
 url_video: ""
 

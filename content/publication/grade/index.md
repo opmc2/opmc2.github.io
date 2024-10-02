@@ -31,7 +31,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "gradePaperNBER.pdf"
+url_pdf: "publication/grade/gradePaperNBER.pdf"
 url_slides: ""
 url_video: ""
 
