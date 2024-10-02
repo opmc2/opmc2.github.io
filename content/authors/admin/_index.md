@@ -6,7 +6,7 @@ title: Oliver Cassagneau-Francis
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
