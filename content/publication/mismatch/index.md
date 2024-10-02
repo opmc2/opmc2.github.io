@@ -3,6 +3,7 @@
 
 title: "Mismatch and school type"
 summary: "
+*NEW WORKING PAPER COMING SOON!*
 A growing body of research has examined the match between student ability and degree quality, revealing that mismatch is widespread, and that disadvantaged students are more likely to undermatch, enrolling in lower quality courses than expected, given their achievement. In this paper we study the role of schools in mismatch, comparing students with the same A-levels ('academically equivalent') from non-selective state schools to those in grammar (selective state) and private schools. We find even larger gaps in mismatch than has been documented for SES quintiles in state schools, with students from private schools attending university courses ranked up to 15 percentiles higher than their academically equivalent state school peers. Investigating the mechanisms behind this mismatch gap, we find that it is largely driven by application behaviour, rather than offers and acceptances.
 
 "
