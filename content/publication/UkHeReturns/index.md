@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The wage returns to higher education by skills and ability"
+title: "Hetergeneous returns to higher education"
 authors: [admin]
 summary: "
 Recent work has highlighted the differing returns that individuals from different social groups experience following a university degree.
