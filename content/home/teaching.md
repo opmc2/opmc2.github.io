@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "UCL"
   company_url = ""
   location = ""
-  date_start = "2021-01-01"
-  date_end = "2022-05-01"
+  date_start = "2023-10-01"
+  date_end = ""
   description = "Guest lecturer and seminar leader for module led by [Hedvig Horvath](https://sites.google.com/site/hedvigh/)."
 
 [[experience]]
