@@ -21,15 +21,15 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
+  [[project]]
     name = "Reach for the stars: Inequalities in university applications by school type, (with L. MacMillan and G. Wyness)"
     tag = "*"
 
-  [[content.filter_button]]
+  [[project]]
     name = "Occupational hazard: Inequalities in occupational mismatch, (with L. Macmillan, R. Murphy, F. Petit and G. Wyness)."
     tag = "*"
 
-    [[content.filter_button]]
+    [[project]]
     name = "Understanding the role of personal statements in elite university admissions, (with G. Kenedi and G. Wyness)."
     tag = "*"
   
