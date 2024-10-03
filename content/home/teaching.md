@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Introduction to Economics I"
+  company = "UCL"
+  company_url = ""
+  location = ""
+  date_start = "2021-01-01"
+  date_end = "2022-05-01"
+  description = "Guest lecturer and seminar leader for module led by [Hedvig Horvath](https://sites.google.com/site/hedvigh/)."
+
+[[experience]]
   title = "Macroeconomics for Public Policy"
   company = "Sciences Po, Paris"
   company_url = ""
   location = ""
   date_start = "2021-01-01"
-  date_end = ""
+  date_end = "2022-05-01"
   description = "Regular seminars / problem classes to support the lectures taught by [Thomas Chaney](https://sites.google.com/site/thomaschaney/teaching/macro?authuser=0) (2021) and [Basile Grassi](https://sites.google.com/site/grassibasile/home/teaching) (2022)."
 
 [[experience]]
