@@ -76,3 +76,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          branch: gh-pages  # or your configured branch
+          folder: public    # or your output folder
