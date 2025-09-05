@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Systematic gaps in teacher judgement: A new approach"
+title: "Measuring systematic gaps in teacher judgement: A new approach"
 summary: "
-Do teachers mark some pupils more generously than others? We propose a new approach to this longstanding question, by exploiting a unique situation where teachers were required to assign grades and the rankings of students within grades for a high-stakes assessment. We use this to test for imbalance of student characteristics across grade boundaries by comparing the top ranked students of one grade, to the lowest ranking students of the next grade. Due to the discrete nature of ranks, we implement an extension to the RDD framework called local randomisation. This does not require the standard assumptions used in teacher bias literature. We find evidence of teacher generosity on average favouring higher income, female, white students. However, there is large variation in gender bias across subjects. Teachers tend to favour a gender more the less that gender is represented in a subject. 
-
+*NEW WP COMING SOON!!*
+Do teachers mark some pupils more generously than others? We propose a new approach to tackle this longstanding question by exploiting a unique situation where teachers were required to assign students both grades and rankings within each grade. Comparing students on either side of grade boundaries, we apply local randomization --- an extension of the RDD framework --- to detect imbalance in student characteristics. Our findings reveal systematic bias favoring higher income, female, and white pupils. These grading decisions carry real consequences: students just above the grade threshold are significantly more likely to attend university and secure their first-choice degree.
 "
 authors: [admin, "Lindsey Macmillan", "Richard Murphy", "Gill Wyness"]
 tags: [higher education, mismatch, teacher judgements]
@@ -31,7 +31,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "publication/grade/gradePaperNBER.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
@@ -43,4 +43,4 @@ url_video: ""
 slides: ""
 ---
 
-Do teachers mark some pupils more generously than others? We propose a new approach to this longstanding question, by exploiting a unique situation where teachers were required to assign grades and the rankings of students within grades for a high-stakes assessment. We use this to test for imbalance of student characteristics across grade boundaries by comparing the top ranked students of one grade, to the lowest ranking students of the next grade. Due to the discrete nature of ranks, we implement an extension to the RDD framework called local randomisation. This does not require the standard assumptions used in teacher bias literature. We find evidence of teacher generosity on average favouring higher income, female, white students. However, there is large variation in gender bias across subjects. Teachers tend to favour a gender more the less that gender is represented in a subject.
+Do teachers mark some pupils more generously than others? We propose a new approach to tackle this longstanding question by exploiting a unique situation where teachers were required to assign students both grades and rankings within each grade. Comparing students on either side of grade boundaries, we apply local randomization --- an extension of the RDD framework --- to detect imbalance in student characteristics. Our findings reveal systematic bias favoring higher income, female, and white pupils. These grading decisions carry real consequences: students just above the grade threshold are significantly more likely to attend university and secure their first-choice degree.
