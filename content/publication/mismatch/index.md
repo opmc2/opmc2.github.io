@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mismatch and school type"
+title: "Private highs: Investigating university overmatch among students from elite schools"
 summary: "
-**NEW WORKING PAPER COMING SOON!**
+**UPDATED WORKING PAPER** (submitted)
 
-A growing body of research has examined the match between student ability and degree quality, revealing that mismatch is widespread, and that disadvantaged students are more likely to undermatch, enrolling in lower quality courses than expected, given their achievement. In this paper we study the role of schools in mismatch, comparing students with the same A-levels ('academically equivalent') from non-selective state schools to those in grammar (selective state) and private schools. We find even larger gaps in mismatch than has been documented for SES quintiles in state schools, with students from private schools attending university courses ranked up to 15 percentiles higher than their academically equivalent state school peers. Investigating the mechanisms behind this mismatch gap, we find that it is largely driven by application behaviour, rather than offers and acceptances.
+Inequality in elite college attendance is a key driver of intergenerational mobility. This paper shifts the focus upstream to examine how elite high school attendance - specifically, enrollment in UK private, fee-paying schools - shapes university destin- ations across the academic ability distribution. Using linked administrative data, we show that the main advantage conferred by private schools is not that their high- achieving students are more likely to access elite degree courses, but rather that their lower-achieving students are more likely to `overmatch' by attending more selective degree courses than might be expected given their grades. In particular, we show that lower attaining pupils from fee-paying high schools enrol in university courses around 15 percentiles higher ranked than similarly qualified state school students. The greater propensity of private school students to overmatch is driven largely by differences in application behavior, with even the weakest private school students aiming higher than their higher achieving state school peers. 
 
 "
 authors: [admin, "Jo Blanden", "Lindsey Macmillan", "Gill Wyness"]
@@ -26,11 +26,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+- name: CEPEO WP
+  url: https://econpapers.repec.org/paper/uclcepeow/25-07.htm
 
 url_code: ""
 url_pdf: ""
@@ -45,4 +43,4 @@ url_video: ""
 slides: ""
 ---
 
-A growing body of research has examined the match between student ability and degree quality, revealing that mismatch is widespread, and that disadvantaged students are more likely to undermatch, enrolling in lower quality courses than expected, given their achievement. In this paper we study the role of schools in mismatch, comparing students with the same A-levels ('academically equivalent') from non-selective state schools to those in grammar (selective state) and private schools. We find even larger gaps in mismatch than has been documented for SES quintiles in state schools, with students from private schools attending university courses ranked up to 15 percentiles higher than their academically equivalent state school peers. Investigating the mechanisms behind this mismatch gap, we find that it is largely driven by application behaviour, rather than offers and acceptances.
+Inequality in elite college attendance is a key driver of intergenerational mobility. This paper shifts the focus upstream to examine how elite high school attendance - specifically, enrollment in UK private, fee-paying schools - shapes university destin- ations across the academic ability distribution. Using linked administrative data, we show that the main advantage conferred by private schools is not that their high- achieving students are more likely to access elite degree courses, but rather that their lower-achieving students are more likely to `overmatch' by attending more selective degree courses than might be expected given their grades. In particular, we show that lower attaining pupils from fee-paying high schools enrol in university courses around 15 percentiles higher ranked than similarly qualified state school students. The greater propensity of private school students to overmatch is driven largely by differences in application behavior, with even the weakest private school students aiming higher than their higher achieving state school peers. 
