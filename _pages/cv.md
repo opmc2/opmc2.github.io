@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf](files/cv_opmc.pdf)
+[pdf](https://opmc2.github.io/files/cv_opmc.pdf)
 
 Academic positions
 ======
