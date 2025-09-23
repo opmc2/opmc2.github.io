@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Fellow at the Centre for Education Policy and Equalising Opportunities (CEPEO) at UCL's IOE. I am interested in the economics of education, labour economics and applied econometrics. Recently, my work has focused on higher education, specifically: (i) the role of teacher assessments, including predicted grades in university admissions in the UK; (ii) the causes and consequences of inequalities in higher education mismatch; (iii) the returns to a university degree. 
+I am a Senior Research Fellow at the [UCL Centre for Education Policy and Equalising Opportunities (CEPEO)](https://www.ucl.ac.uk/ioe/departments-and-centres/centre-education-policy-and-equalising-opportunities). I am interested in the economics of education, labour economics and applied econometrics. Recently, my work has focused on higher education, specifically: (i) the role of teacher assessments, including predicted grades in university admissions in the UK; (ii) the causes and consequences of inequalities in higher education mismatch; (iii) the returns to a university degree. 
 
 I received my PhD in economics from Sciences Po in 2022, supervised by Ghazala Azmat and Jean-Marc Robin.
 
