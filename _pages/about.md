@@ -15,8 +15,8 @@ Scroll down to see my latest updates or explore the links at the top of the page
 
 # UPDATES
 
+- **NEW WORKING PAPER** *Measuring systematic gaps in teacher judgement: A new approach*, with Lindsey Macmillan, Rich Murphy, and Gill Wyness. [CEPEO Working Paper (10/2025)](http://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-12.pdf)
 - **NEW WORKING PAPER** *Estimating heterogeneous returns to college by cognitive and non-cognitive ability*. [CEPEO Working Paper (09/2025)](http://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-10.pdf)
 - **NEW WORKING PAPER** *Private highs: Investigating university overmatch among students from elite schools*, with Jo Blanden, Lindsey Macmillan, Gill Wyness. [CEPEO Working Paper (06/2025)](http://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-07.pdf)
 - **NEW REPORT** *The merits of teacher assessment versus external exams to measure student achievement.* with Gill Wyness. [IZA World of Labor 2025: 517 doi: 10.15185/izawol.517](https://wol.iza.org/articles/the-merits-of-teacher-assessment-versus-external-exams-to-measure-student-achievement)
-- **NEW WP COMING SOON** *Measuring systematic gaps in teacher judgement: A new approach*, with Lindsey Macmillan, Rich Murphy, and Gill Wyness.
 
