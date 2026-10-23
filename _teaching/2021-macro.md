@@ -2,7 +2,7 @@
 title: "Macroeconomics"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/labour-econ
+permalink: /teaching/macro
 venue: "Sciences Po"
 date: 2021-09-25
 location: "Paris"

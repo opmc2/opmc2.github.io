@@ -8,4 +8,4 @@ date: 2025-09-12
 location: "London, UK"
 ---
 
-Lecturer for 2nd-year UG course in economics of education.
+Co-lead and lecturer for 2nd-year UG module in economics of education, including a lecture on causal inference.

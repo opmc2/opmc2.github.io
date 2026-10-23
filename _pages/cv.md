@@ -15,6 +15,7 @@ Academic positions
 ======
 * Senior Research Fellow, UCL, 2024 --
 * Research Fellow, UCL, 2022 -- 2024
+* Affiliated Researcher, Department for Education, through the Economics of Education Research Centre (EERC)
 
 Education
 ======
@@ -41,7 +42,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Grants
 ======
-* Organiser of CEPEO seminar series
+* Nuffield Foundation grant, HE admissions and match (PI, c. £240,000), under review, 2026
+* EERC (DfE), school absences project (Co-I)
+* Nuffield Foundation Research Grant, Beyond teacher assessed grades (Co-I, £177,647), 2025 -- 2026
+* ESRC Impact Acceleration Account award (Co-I, £19,613), 2024 -- 2025
+* ADR UK Research Fellowship (PI, £176,314), 2023 -- 2025
+
+Supervision and service
+======
+* Line manager, Research Fellow, CEPEO, 2026 --
+* Dissertation supervisor, Arts and Sciences (BASc), UCL, 2026 -- 2027
+* PhD mentor, ADR UK, 2026 --
+* Organiser of CEPEO seminar series, 2023 -- 2025
+* Contributor to the development of the LEO dataset and synthetic LEO
 * Referee: Econ of Ed Review; Education Economics
