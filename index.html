@@ -9,146 +9,184 @@
 <meta property="og:description" content="Senior Research Fellow at UCL CEPEO. Economics of education, labour economics and applied econometrics.">
 <meta property="og:image" content="https://opmc2.github.io/images/avatar1.jpeg">
 <meta property="og:url" content="https://opmc2.github.io/">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%231f5f9e'/%3E%3Ctext x='16' y='22' font-family='Arial' font-size='15' font-weight='700' fill='white' text-anchor='middle'%3EOCF%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231d4e89'/%3E%3Ctext x='16' y='21.5' font-family='Arial' font-size='14' font-weight='700' fill='white' text-anchor='middle'%3EOC%3C/text%3E%3C/svg%3E">
 <style>
   :root {
-    --bg: #ffffff;
-    --text: #1d1f23;
-    --muted: #5b616b;
-    --rule: #e3e5e8;
-    --accent: #1f5f9e;
+    --bg: #f6f2ea;
+    --side: #ece5d8;
+    --text: #2a2622;
+    --muted: #6b635a;
+    --rule: #ddd4c4;
+    --accent: #24508a;
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #15171a;
-      --text: #e6e7e9;
-      --muted: #a0a5ad;
-      --rule: #2c3036;
-      --accent: #8ab8ee;
+      --bg: #1a1815;
+      --side: #23201c;
+      --text: #ece6dc;
+      --muted: #b0a798;
+      --rule: #3a352e;
+      --accent: #9fc0ec;
     }
   }
   * { box-sizing: border-box; }
-  html { -webkit-text-size-adjust: 100%; }
+  html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
   body {
-    margin: 0;
-    background: var(--bg);
-    color: var(--text);
-    font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 16.5px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   }
-  main { max-width: 760px; margin: 0 auto; padding: 48px 16px 64px; }
-  a { color: var(--accent); text-underline-offset: 2px; }
-  a:hover { text-decoration-thickness: 2px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
-  header { display: flex; gap: 28px; align-items: center; margin-bottom: 28px; }
-  header img {
-    width: 132px; height: 132px; flex: none;
-    border-radius: 50%; object-fit: cover; object-position: 50% 30%;
+  .layout { display: grid; grid-template-columns: 290px minmax(0, 1fr); min-height: 100vh; }
+
+  aside {
+    background: var(--side); border-right: 1px solid var(--rule);
+    padding: 48px 32px;
   }
-  h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 4px; font-weight: 650; }
-  .role { margin: 0 0 10px; color: var(--muted); }
-  .links { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: 4px 18px; }
+  .side-inner { position: sticky; top: 48px; }
+  .photo { max-width: 220px; margin: 0 0 20px; }
+  .photo img {
+    display: block; width: 100%; aspect-ratio: 1; object-fit: cover; object-position: 50% 30%;
+    border-radius: 6px;
+  }
+  aside h1 { font-size: 1.45rem; line-height: 1.25; margin: 0 0 6px; font-weight: 700; }
+  .role { color: var(--muted); margin: 0 0 28px; font-size: 0.95rem; line-height: 1.45; }
+  .side-nav, .contact { list-style: none; margin: 0; padding: 0; }
+  .side-nav { margin-bottom: 24px; }
+  .side-nav a {
+    display: block; color: var(--text); padding: 5px 0 5px 12px; border-left: 2px solid transparent; font-weight: 500;
+  }
+  .side-nav a:hover { color: var(--accent); border-left-color: var(--accent); text-decoration: none; }
+  .contact { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 0.92rem; padding-top: 20px; border-top: 1px solid var(--rule); }
+
+  main { padding: 48px 56px 80px; max-width: 820px; }
+  .intro p { margin: 0 0 14px; }
+  .intro p:first-child { font-size: 1.12rem; }
 
   h2 {
-    font-size: 0.85rem; letter-spacing: 0.08em; text-transform: uppercase;
-    color: var(--muted); font-weight: 650;
-    margin: 44px 0 14px; padding-bottom: 6px; border-bottom: 1px solid var(--rule);
+    font-size: 1.3rem; font-weight: 700; margin: 52px 0 20px; padding-bottom: 8px;
+    border-bottom: 1px solid var(--rule); scroll-margin-top: 24px;
   }
   ul.items { list-style: none; margin: 0; padding: 0; }
-  ul.items > li { margin: 0 0 18px; }
-  .title { font-weight: 600; }
-  .meta { color: var(--muted); font-size: 0.95rem; }
-  details { margin-top: 4px; font-size: 0.95rem; }
-  summary { cursor: pointer; color: var(--accent); width: fit-content; }
-  details p { margin: 6px 0 0; }
-  .compact > li { margin-bottom: 8px; }
-  footer { margin-top: 56px; color: var(--muted); font-size: 0.9rem; }
+  ul.items > li { margin: 0 0 22px; }
+  .title { display: block; font-weight: 650; }
+  .meta { display: block; color: var(--muted); font-size: 0.95rem; }
+  details { margin-top: 3px; font-size: 0.93rem; }
+  summary { cursor: pointer; list-style: none; width: fit-content; color: var(--accent); font-weight: 500; }
+  summary::-webkit-details-marker { display: none; }
+  summary::after { content: "+"; display: inline-block; margin-left: 6px; font-weight: 700; }
+  details[open] summary::after { content: "\2212"; }
+  details p {
+    margin: 8px 0 0; padding: 10px 14px; background: var(--side); border-radius: 4px; max-width: 72ch;
+  }
+  .compact > li { margin-bottom: 14px; }
+  footer { margin-top: 64px; color: var(--muted); font-size: 0.85rem; }
 
-  @media (max-width: 560px) {
-    main { padding-top: 32px; }
-    header { flex-direction: column; align-items: flex-start; gap: 16px; }
-    header img { width: 104px; height: 104px; }
-    h1 { font-size: 1.7rem; }
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; }
+    aside { border-right: 0; border-bottom: 1px solid var(--rule); padding: 28px 16px 20px; }
+    .side-inner { position: static; display: grid; grid-template-columns: 100px 1fr; gap: 4px 18px; align-items: center; }
+    .photo { width: 96px; margin: 0; grid-row: span 2; }
+    aside h1 { font-size: 1.3rem; margin: 0; align-self: end; }
+    .role { margin: 0; align-self: start; }
+    .side-nav { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 16px 0 0; }
+    .side-nav a { padding: 2px 0; border-left: 0; }
+    .contact { grid-column: 1 / -1; margin-top: 10px; padding-top: 10px; }
+    main { padding: 28px 16px 64px; }
+    h2 { margin-top: 40px; }
   }
 </style>
 </head>
 <body>
-<main>
+<div class="layout">
 
-<header>
-  <img src="images/avatar1.jpeg" alt="Oliver Cassagneau-Francis">
-  <div>
-    <h1>Oliver Cassagneau-Francis</h1>
-    <p class="role">Senior Research Fellow, <a href="https://www.ucl.ac.uk/ioe/departments-and-centres/centre-education-policy-and-equalising-opportunities">Centre for Education Policy and Equalising Opportunities (CEPEO)</a>, UCL</p>
-    <ul class="links">
-      <li><a href="mailto:o.cassagneau-francis@ucl.ac.uk">Email</a></li>
+<aside>
+  <div class="side-inner">
+    <div class="photo"><img src="images/avatar1.jpeg" alt="Oliver Cassagneau-Francis"></div>
+    <h1>Oliver Cassagneau&#8209;Francis</h1>
+    <p class="role">Senior Research Fellow<br>CEPEO, UCL</p>
+    <ul class="side-nav">
+      <li><a href="#research">Research</a></li>
+      <li><a href="#writing">Writing</a></li>
+      <li><a href="#teaching">Teaching</a></li>
       <li><a href="files/cv_opmc.pdf">CV (PDF)</a></li>
+    </ul>
+    <ul class="contact">
+      <li><a href="mailto:o.cassagneau-francis@ucl.ac.uk">Email</a></li>
       <li><a href="https://github.com/opmc2">GitHub</a></li>
       <li><a href="https://orcid.org/0000-0002-1133-0617">ORCID</a></li>
       <li><a href="https://bsky.app/profile/opmc1.bsky.social">Bluesky</a></li>
     </ul>
   </div>
-</header>
+</aside>
 
-<p>I am an applied economist working on the economics of education, labour economics and applied econometrics. My recent work focuses on higher education: the role of teacher assessments and predicted grades in university admissions, the causes and consequences of inequalities in university mismatch, and the returns to a university degree. I am also an affiliated researcher at the Department for Education through the Economics of Education Research Centre (EERC).</p>
-<p>I received my PhD in economics from Sciences Po in 2022, supervised by Ghazala Azmat and Jean-Marc Robin.</p>
+<main>
+<section class="intro">
+  <p>I am a Senior Research Fellow at the <a href="https://www.ucl.ac.uk/ioe/departments-and-centres/centre-education-policy-and-equalising-opportunities">Centre for Education Policy and Equalising Opportunities</a> (CEPEO), UCL, working on the economics of education, labour economics and applied econometrics.</p>
+  <p>My recent work focuses on higher education: the role of teacher assessments and predicted grades in university admissions, the causes and consequences of inequalities in university mismatch, and the returns to a university degree. I am also an affiliated researcher at the Department for Education through the Economics of Education Research Centre (EERC).</p>
+  <p>I am now extending this work to the environment: how climate change and the transition to net zero will reshape inequalities in education and work, beginning with the effects of extreme weather on school attendance.</p>
+  <p>I received my PhD in economics from Sciences Po in 2022, supervised by Ghazala Azmat and Jean-Marc Robin.</p>
+</section>
 
-<h2>Working papers</h2>
+<h2 id="research">Working papers</h2>
 <ul class="items">
   <li>
-    <a class="title" href="https://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-12.pdf">Measuring systematic gaps in teacher judgement: A new approach</a><br>
-    <span class="meta">with Lindsey Macmillan, Richard Murphy and Gill Wyness. CEPEO Working Paper 25-12, 2025.</span>
+    <span class="title">Measuring systematic gaps in teacher judgement: A new approach</span>
+    <span class="meta">with Lindsey Macmillan, Richard Murphy and Gill Wyness · <a href="https://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-12.pdf">CEPEO Working Paper 25-12</a>, 2025</span>
     <details><summary>Abstract</summary><p>Subjective performance evaluations play a prevalent role across many parts of society, despite concerns regarding bias. Consistently measuring the extent of bias with such evaluations is inherently difficult. We propose a new approach to tackle this longstanding question in a setting where teachers were required to assign students both grades and rankings within each grade. By exploiting the discrete nature of these evaluations, we compare the concentration of student types of adjacent students either side of grade boundaries. Through an application of a local randomization approach, we establish systematic bias favoring higher income female students. We then establish that these grading decisions carry real consequences: students just above the grade threshold are significantly more likely to attend university and secure their first-choice degree.</p></details>
   </li>
   <li>
-    <a class="title" href="https://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-10.pdf">Estimating heterogeneous returns to college by cognitive and non-cognitive ability</a><br>
-    <span class="meta">CEPEO Working Paper 25-10, 2025.</span>
+    <span class="title">Estimating heterogeneous returns to college by cognitive and non-cognitive ability</span>
+    <span class="meta"><a href="https://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-10.pdf">CEPEO Working Paper 25-10</a>, 2025</span>
     <details><summary>Abstract</summary><p>Recent work has highlighted the significant variation in returns to higher education across individuals. I develop a novel methodology, exploiting recent advances in the identification of mixture models, which groups individuals according to their prior ability and estimates the wage returns to a university degree by group, and show that the model is non-parametrically identified. Applying the method to data from a UK cohort study, the findings reflect recent evidence that skills and ability are multidimensional. The flexible model allows the returns to university to vary across the (multi-dimensional) ability distribution, a flexibility missing from commonly used additive models, but which I show is empirically important. Returns are generally increasing in ability for both men and women, but vary non-monotonically across the ability distribution.</p></details>
   </li>
   <li>
-    <a class="title" href="https://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-07.pdf">Private highs: Investigating university overmatch among students from elite schools</a><br>
-    <span class="meta">with Jo Blanden, Lindsey Macmillan and Gill Wyness. CEPEO Working Paper 25-07, 2025.</span>
+    <span class="title">Private highs: Investigating university overmatch among students from elite schools</span>
+    <span class="meta">with Jo Blanden, Lindsey Macmillan and Gill Wyness · <a href="https://repec-cepeo.ucl.ac.uk/cepeow/cepeowp25-07.pdf">CEPEO Working Paper 25-07</a>, 2025</span>
     <details><summary>Abstract</summary><p>Inequality in elite college attendance is a key driver of intergenerational mobility. This paper shifts the focus upstream to examine how elite high school attendance (specifically, enrollment in UK private, fee-paying schools) shapes university destinations across the academic ability distribution. Using linked administrative data, we show that the main advantage conferred by private schools is not that their high-achieving students are more likely to access elite degree courses, but rather that their lower-achieving students are more likely to overmatch by attending more selective degree courses than might be expected given their grades. In particular, we show that lower attaining pupils from fee-paying high schools enrol in university courses around 15 percentiles higher ranked than similarly qualified state school students. The greater propensity of private school students to overmatch is driven largely by differences in application behavior, with even the weakest private school students aiming higher than their higher achieving state school peers.</p></details>
   </li>
   <li>
-    <a class="title" href="files/defis_12.pdf">A nonparametric finite-mixture approach to instrumented difference-in-differences, with an application to job training</a><br>
-    <span class="meta">with Robert Gary-Bobo, Julie Pernaudet and Jean-Marc Robin. 2025.</span>
+    <span class="title">A nonparametric finite-mixture approach to instrumented difference-in-differences, with an application to job training</span>
+    <span class="meta">with Robert Gary-Bobo, Julie Pernaudet and Jean-Marc Robin · <a href="files/defis_12.pdf">Working paper</a>, 2025</span>
     <details><summary>Abstract</summary><p>We develop a finite-mixture framework for nonparametric difference-in-differences analysis with unobserved heterogeneity correlating treatment and outcome. Our framework includes an instrumental variable for the treatment, and we prove nonparametric identification. We can thus relax the single index and stationarity assumptions of Athey and Imbens (2006) at the cost of adding slightly more structure on unobserved heterogeneity. We apply our framework to evaluate the effect of on-the-job training on wages, using novel French linked employee-employer data. Estimating a parametric version of our model with the help of an EM-algorithm, we find small ATEs and ATTs on hourly wages, around 4% in the year of training, falling to under 2% in the following year.</p></details>
   </li>
   <li>
-    <a class="title" href="files/ukHeExp.pdf">The role of earnings, financial, and other factors in university attendance</a><br>
-    <span class="meta">2023.</span>
+    <span class="title">The role of earnings, financial, and other factors in university attendance</span>
+    <span class="meta"><a href="files/ukHeExp.pdf">Working paper</a>, 2023</span>
     <details><summary>Abstract</summary><p>Why do some people choose to attend university, and enjoy state-subsidised benefits, while others do not? We shed new light on this key issue by comparing and quantifying the roles of earnings and non-pecuniary factors in the educational decisions of young people in the UK, exploiting information on young people's beliefs about the advantages and disadvantages of university. We also investigate changes in these factors over time, and their implications for social mobility. We specify a model of educational choice, explicitly including expectations about earnings, financial, and non-pecuniary factors. Our estimation strategy exploits panel survey data on young people's expectations about key outcomes both at, and after, university, linked to their realised outcomes. Income maximisation, despite its prevalent role in the literature, is only part of the story: other factors are at least as important as earnings in determining whether someone goes to university. Non-pecuniary factors also play an important role in both the SES gap in educational attainment and the huge growth in degree attainment between the 1980s and 2010s.</p></details>
   </li>
 </ul>
 
 <h2>Work in progress</h2>
 <ul class="items compact">
-  <li><span class="title">Teacher leniency and the impact of higher education mismatch on earnings</span> <span class="meta">with Lindsey Macmillan, Richard Murphy and Gill Wyness</span></li>
-  <li><span class="title">Measuring inequalities in match to occupations using linked employer-employee data</span> <span class="meta">with Lindsey Macmillan, Richard Murphy, Fabien Petit and Gill Wyness</span></li>
-  <li><span class="title">Beyond teacher assessed grades: Post-16 education choices and Covid-19</span> <span class="meta">with Lindsey Macmillan and Gill Wyness. Funded by the Nuffield Foundation.</span></li>
+  <li><span class="title">Teacher leniency and the impact of higher education mismatch on earnings</span><span class="meta">with Lindsey Macmillan, Richard Murphy and Gill Wyness</span></li>
+  <li><span class="title">Measuring inequalities in match to occupations using linked employer-employee data</span><span class="meta">with Lindsey Macmillan, Richard Murphy, Fabien Petit and Gill Wyness</span></li>
+  <li><span class="title">Beyond teacher assessed grades: Post-16 education choices and Covid-19</span><span class="meta">with Lindsey Macmillan and Gill Wyness · Funded by the Nuffield Foundation</span></li>
 </ul>
 
-<h2>Publications and policy writing</h2>
+<h2 id="writing">Publications and policy writing</h2>
 <ul class="items compact">
-  <li><a class="title" href="https://cep.lse.ac.uk/_new/publications/abstract.asp?index=12027">Degrees of choice</a> <span class="meta">with Jo Blanden, Lindsey Macmillan and Gill Wyness. <i>CentrePiece</i> 31(1), 2026 (lead article).</span></li>
-  <li><a class="title" href="https://wol.iza.org/articles/the-merits-of-teacher-assessment-versus-external-exams-to-measure-student-achievement">The merits of teacher assessment versus external exams to measure student achievement</a> <span class="meta">with Gill Wyness. <i>IZA World of Labor</i> 517, 2025.</span></li>
-  <li><a class="title" href="https://repec-cepeo.ucl.ac.uk/cepeob/cepeobn17.pdf">The potential effects of the cost of living crisis on children's outcomes</a> <span class="meta">with Dom Kelly. CEPEO Briefing Note 17, 2022.</span></li>
-  <li><a class="title" href="https://hal.science/hal-03572311v1">L'impact de la formation professionnelle en France : une première exploration sur les données Défis du Céreq</a> <span class="meta">with Robert Gary-Bobo, Julie Pernaudet and Jean-Marc Robin. <i>Céreq Échanges</i> 15, 2020.</span></li>
-  <li><a class="title" href="https://doi.org/10.1093/jiplp/jpz109">The myth of the 'small patent for the small inventor': strategic motives to use second-tier patent systems (utility models) in selected European countries</a> <span class="meta">with Alfred Radauer, Cristina Rosemberg Montes, Heinz Goddar and Carl-Richard Haarmann. <i>Journal of Intellectual Property Law &amp; Practice</i> 14(10), 2019.</span></li>
+  <li><span class="title">Degrees of choice</span><span class="meta">with Jo Blanden, Lindsey Macmillan and Gill Wyness · <a href="https://cep.lse.ac.uk/_new/publications/abstract.asp?index=12027"><i>CentrePiece</i></a> 31(1), 2026 (lead article)</span></li>
+  <li><span class="title">The merits of teacher assessment versus external exams to measure student achievement</span><span class="meta">with Gill Wyness · <a href="https://wol.iza.org/articles/the-merits-of-teacher-assessment-versus-external-exams-to-measure-student-achievement"><i>IZA World of Labor</i></a> 517, 2025</span></li>
+  <li><span class="title">The potential effects of the cost of living crisis on children's outcomes</span><span class="meta">with Dom Kelly · <a href="https://repec-cepeo.ucl.ac.uk/cepeob/cepeobn17.pdf">CEPEO Briefing Note 17</a>, 2022</span></li>
+  <li><span class="title">L'impact de la formation professionnelle en France : une première exploration sur les données Défis du Céreq</span><span class="meta">with Robert Gary-Bobo, Julie Pernaudet and Jean-Marc Robin · <a href="https://hal.science/hal-03572311v1"><i>Céreq Échanges</i></a> 15, 2020</span></li>
+  <li><span class="title">The myth of the 'small patent for the small inventor': strategic motives to use second-tier patent systems (utility models) in selected European countries</span><span class="meta">with Alfred Radauer, Cristina Rosemberg Montes, Heinz Goddar and Carl-Richard Haarmann · <a href="https://doi.org/10.1093/jiplp/jpz109"><i>Journal of Intellectual Property Law &amp; Practice</i></a> 14(10), 2019</span></li>
 </ul>
 
-<h2>Teaching</h2>
+<h2 id="teaching">Teaching</h2>
 <ul class="items compact">
-  <li><span class="title">Economics of Education</span> <span class="meta">UCL, undergraduate. Co-lead and lecturer, 2025–.</span></li>
-  <li><span class="title">Evaluation Methods with Administrative Data</span> <span class="meta">ADR UK professional course. Instrumental variables, regression discontinuity and an R practical, 2026. <a href="https://projects.jakeanders.uk/adr-evaluation-methods-admin-data/">Course materials</a>.</span></li>
-  <li><span class="title">Practical Introduction to the LEO Dataset</span> <span class="meta">ADR UK professional course, 2025–.</span></li>
-  <li><span class="title">Introduction to Economics I</span> <span class="meta">UCL, undergraduate. Seminar leader and guest lecturer, 2023–2025.</span></li>
-  <li><span class="title">Introduction to Econometrics</span> <span class="meta">Sciences Po, undergraduate. Lecturer, taught interactively in R, 2018–2019.</span></li>
-  <li><span class="title">Seminars at Sciences Po</span> <span class="meta">Intermediate Microeconomics (head seminar leader), Graduate Microeconomics, Labour Economics, Macroeconomics and the Mathematics Bootcamp, 2017–2021.</span></li>
+  <li><span class="title">Economics of Education</span><span class="meta">UCL, undergraduate · Co-lead and lecturer, 2025–</span></li>
+  <li><span class="title">Evaluation Methods with Administrative Data</span><span class="meta">ADR UK professional course · Instrumental variables, regression discontinuity and an R practical, 2026 · <a href="https://projects.jakeanders.uk/adr-evaluation-methods-admin-data/">Course materials</a></span></li>
+  <li><span class="title">Practical Introduction to the LEO Dataset</span><span class="meta">ADR UK professional course, 2025–</span></li>
+  <li><span class="title">Introduction to Economics I</span><span class="meta">UCL, undergraduate · Seminar leader and guest lecturer, 2023–2025</span></li>
+  <li><span class="title">Introduction to Econometrics</span><span class="meta">Sciences Po, undergraduate · Lecturer, taught interactively in R, 2018–2019</span></li>
+  <li><span class="title">Seminars at Sciences Po</span><span class="meta">Intermediate Microeconomics (head seminar leader), Graduate Microeconomics, Labour Economics, Macroeconomics and the Mathematics Bootcamp, 2017–2021</span></li>
 </ul>
 
-<footer>Last updated October 2026.</footer>
-
+<footer>Last updated October 2026</footer>
 </main>
+
+</div>
 </body>
 </html>
